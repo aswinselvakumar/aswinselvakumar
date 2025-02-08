@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on DSA.<br>👯 I'm looking to collaborate on DSA problem solving!<br>🌱 I'm currently learning full stack web development.<br>💬 Ask me about : DSA tricks, full-stack web dev, gym progress, or anything fun!<br>⚡ Fun fact : The first computer bug was a literal moth found in a Harvard Mark II computer in 1947!<br><br><br><br><br><br><br><br>
+🔭 I'm currently working on DSA.<br>👯 I'm looking to collaborate on DSA problem solving!<br>🌱 I'm currently learning full stack web development.<br>💬 Ask me about : DSA tricks, full-stack web dev, gym progress, or anything fun!<br>⚡ Fun fact : The first computer bug was a literal moth found in a Harvard Mark II computer in 1947!<br><br><br><br>
 
 
 ## 🌐 Socials:
